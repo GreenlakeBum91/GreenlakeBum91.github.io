@@ -1,6 +1,7 @@
 h1 {
 	color: blue;
 	font-style: Comic Sans;
+	text-decoration: underline;
 	font-size: 50px;
 	text-align: center;
 }
@@ -8,7 +9,7 @@ h2 {
 	text-align: center;
  }
 p {
-	color:green;
+	color:black;
 	font-size: 30px;
 	text-align: center;
 }
@@ -17,10 +18,18 @@ img {
     display: block;
     margin: 0 auto;
 }
-ol {
+ul {
 	text-align:center;
 }
 
 body {
-    background-image: url("https://pbs.twimg.com/profile_images/1990249248/image.jpg");
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/36/SeattleI5Skyline.jpg");
 }
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
+
+
