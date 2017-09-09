@@ -1,0 +1,26 @@
+h1 {
+	color: blue;
+	font-style: Comic Sans;
+	font-size: 50px;
+	text-align: center;
+}
+h2 { 
+	text-align: center;
+ }
+p {
+	color:green;
+	font-size: 30px;
+	text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+ol {
+	text-align:center;
+}
+
+body {
+    background-image: url("https://pbs.twimg.com/profile_images/1990249248/image.jpg");
+}
